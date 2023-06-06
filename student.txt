@@ -1,0 +1,13 @@
+class student {
+    public static void main(String[] args) {
+        String name ="Kushaal balineni";
+        int age=23;
+        int studentid= 1146477;
+        int yearofbirth= 2000;
+        int dateofbirth= 10;
+        String monthofbirth= "April";
+        System.out.printf("Name of the student= " +name+"\n"+"Date of birth = "+dateofbirth+" "+monthofbirth+" "+yearofbirth+"\n");
+        System.out.printf("Age of student = "+age+"\n"+"student id= "+studentid);
+        
+    }
+}
